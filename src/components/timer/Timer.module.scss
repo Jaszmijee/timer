@@ -1,0 +1,9 @@
+@import '../../styles/settings.scss';
+
+.time {
+  font-size: 90px;
+  color: $color-light;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
